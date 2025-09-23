@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# my settings
+src/checkpoints/
+src/demo/
+src/faster_rcnn_r50_fpn_1x_coco.py
