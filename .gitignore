@@ -211,3 +211,6 @@ src/checkpoints/
 src/demo/
 src/faster_rcnn_r50_fpn_1x_coco.py
 mmdetection/
+demo/checkpoints/
+demo/outputs/
+demo/output/
