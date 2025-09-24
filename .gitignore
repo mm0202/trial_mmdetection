@@ -216,3 +216,6 @@ demo/outputs/
 demo/output/
 demo/data/
 demo/work_dirs/
+demo/ballondatasets/
+demo/balloon_dataset.zip
+demo/tutorial_exps/
