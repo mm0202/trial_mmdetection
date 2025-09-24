@@ -214,3 +214,5 @@ mmdetection/
 demo/checkpoints/
 demo/outputs/
 demo/output/
+demo/data/
+demo/work_dirs/
