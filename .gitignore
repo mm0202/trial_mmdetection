@@ -210,3 +210,4 @@ __marimo__/
 src/checkpoints/
 src/demo/
 src/faster_rcnn_r50_fpn_1x_coco.py
+mmdetection/
